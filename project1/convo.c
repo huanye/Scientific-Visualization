@@ -1,15 +1,3 @@
-/*
-** plt and plotr: SciVis-2018 Project 1
-** Copyright (C)  2018 University of Chicago. All rights reserved.
-**
-** This file is distributed to students in the 2018 CMSC 23710/33710
-** ("SciVis") class, and no one else, for use in the SciVis class. This
-** file is not open-source licensed, nor licensed for any other distribution.
-** You should not allow this file to be copied or downloaded by someone who
-** is not a 2018 SciVis student, as that would violate the copyright
-** held by University of Chicago.
-*/
-
 #include "plt.h"
 
 // sanity check on order of derivative
